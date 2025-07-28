@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BTS Songs 💜</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h1>💜 BTS Song List 💜</h1>
+  <div class="song-container">
+    {% for song in songs %}
+    <div class="song-card">
+      <h2>{{ song.title }}</h2>
+      <p><strong>Album:</strong> {{ song.album }}</p>
+      <p><strong>Release:</strong> {{ song.release }}</p>
+      <a href="{{ song.youtube }}" target="_blank">🎵 Watch on YouTube</a>
+    </div>
+    {% endfor %}
+  </div>
+</body>
+</html>
