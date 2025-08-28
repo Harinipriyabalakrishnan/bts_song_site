@@ -1,638 +1,511 @@
-[
-  {
-    "title": "Spring Day",
-    "album": "You Never Walk Alone",
-    "release": "2017-02-13",
-    "youtube": "https://youtu.be/xEeFrLSkMm8"
-  },
-  {
-    "title": "Dynamite",
-    "album": "Dynamite (Single)",
-    "release": "2020-08-21",
-    "youtube": "https://youtu.be/gdZLi9oWNZg"
-  },
-  {
-    "title": "Butter",
-    "album": "Butter (Single)",
-    "release": "2021-05-21",
-    "youtube": "https://youtu.be/WMweEpGlu_U"
-  },
-  {
-    "title": "Fake Love",
-    "album": "Love Yourself: Tear",
-    "release": "2018-05-18",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Blood Sweat & Tears",
-    "album": "Wings",
-    "release": "2016-10-10",
-    "youtube": "https://youtu.be/H1w8k4b2d9c"
-  },
-  {
-    "title": "IDOL",
-    "album": "Love Yourself: Answer",
-    "release": "2018-08-24",
-    "youtube": "https://youtu.be/pP9n3g0s7aY"
-  },
-  {
-    "title": "Mic Drop",
-    "album": "Love Yourself: Her",
-    "release": "2017-09-18",
-    "youtube": "https://youtu.be/kTlv5_Bs8aw"
-  },
-  {
-    "title": "ON",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/POeXcZ2d9tI"
-  },
-  {
-    "title": "Life Goes On",
-    "album": "BE",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Permission to Dance",
-    "album": "Permission to Dance (Single)",
-    "release": "2021-07-09",
-    "youtube": "https://youtu.be/CuklIb9d3fI"
-  },
-  {
-    "title": "Black Swan",
-    "album": "Map of the Soul: 7",
-    "release": "2020-01-17",
-    "youtube": "https://youtu.be/1n8j2b3d9tI"
-  },
-  {
-    "title": "Stay Gold",
-    "album": "Map of the Soul: 7 - The Journey",
-    "release": "2020-06-19",
-    "youtube": "https://youtu.be/5q6a4b3d9tI"
-  },
-  {
-    "title": "Your Eyes Tell",
-    "album": "Your Eyes Tell (Single)",
-    "release": "2020-07-01",
-    "youtube": "https://youtu.be/3q6a4b3d9tI"
-  },
-  {
-    "title": "Euphoria",
-    "album": "Love Yourself: Answer",
-    "release": "2018-08-24",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Spring Day (Acoustic Version)",
-    "album": "You Never Walk Alone (Acoustic Version)",
-    "release": "2021-02-13",
-    "youtube": "https://youtu.be/xEeFrLSkMm8"
-  },
-  {
-    "title": "Blue & Grey",
-    "album": "BE",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Butter (Hotter Remix)",
-    "album": "Butter (Single)",
-    "release": "2021-06-18",
-    "youtube": "https://youtu.be/WMweEpGlu_U"
-  },
-  {
-    "title": "Dynamite (Acoustic Version)",
-    "album": "Dynamite (Single)",
-    "release": "2020-09-18",
-    "youtube": "https://youtu.be/gdZLi9oWNZg"
-  },
-  {
-    "title": "Life Goes On (Remix)",
-    "album": "BE (Remix)",
-    "release": "2021-01-15",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Butter (Instrumental)",
-    "album": "Butter (Single)",
-    "release": "2021-05-21",
-    "youtube": "https://youtu.be/WMweEpGlu_U"
-  },
-  {
-    "title": "IDOL (Remix)",
-    "album": "Love Yourself: Answer (Remix)",
-    "release": "2018-09-21",
-    "youtube": "https://youtu.be/pP9n3g0s7aY"
-  },
-  {
-    "title": "Spring Day (Live)",
-    "album": "You Never Walk Alone (Live)",
-    "release": "2017-02-13",
-    "youtube": "https://youtu.be/xEeFrLSkMm8"
-  },
-  {
-    "title": "Dynamite (Remix)",
-    "album": "Dynamite (Single)",
-    "release": "2020-10-23",
-    "youtube": "https://youtu.be/gdZLi9oWNZg"
-  },
-  {
-    "title": "Butter (Dance Practice)",
-    "album": "Butter (Single)",
-    "release": "2021-05-21",
-    "youtube": "https://youtu.be/WMweEpGlu_U"
-  },
-  {
-    "title": "Fake Love (Live)",
-    "album": "Love Yourself: Tear (Live)",
-    "release": "2018-05-18",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Blood Sweat & Tears (Remix)",
-    "album": "Wings (Remix)",
-    "release": "2016-11-11",
-    "youtube": "https://youtu.be/H1w8k4b2d9c"
-  },
-  {
-    "title": "IDOL (Dance Practice)",
-    "album": "Love Yourself: Answer (Dance Practice)",
-    "release": "2018-08-24",
-    "youtube": "https://youtu.be/pP9n3g0s7aY"
-  },
-  {
-    "title": "Mic Drop (Steve Aoki Remix)",
-    "album": "Love Yourself: Her (Remix)",
-    "release": "2017-11-24",
-    "youtube": "https://youtu.be/kTlv5_Bs8aw"
-  },
-  {
-    "title": "ON (Kinetic Manifesto Film)",
-    "album": "Map of the Soul: 7 (Kinetic Manifesto)",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/POeXcZ2d9tI"
-  },
-  {
-    "title": "Life Goes On (Acoustic Version)",
-    "album": "BE (Acoustic Version)",
-    "release": "2020-12-04",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Permission to Dance (Live)",
-    "album": "Permission to Dance (Live)",
-    "release": "2021-07-09",
-    "youtube": "https://youtu.be/CuklIb9d3fI"
-  },
-  {
-    "title": "Black Swan (Orchestral Version)",
-    "album": "Map of the Soul: 7 (Orchestral Version)",
-    "release": "2020-01-17",
-    "youtube": "https://youtu.be/1n8j2b3d9tI"
-  },
-  {
-    "title": "Stay Gold (Acoustic Version)",
-    "album": "Map of the Soul: 7 - The Journey (Acoustic Version)",
-    "release": "2020-07-01",
-    "youtube": "https://youtu.be/5q6a4b3d9tI"
-  },
-  {
-    "title": "Your Eyes Tell (Piano Version)",
-    "album": "Your Eyes Tell (Piano Version)",
-    "release": "2020-07-15",
-    "youtube": "https://youtu.be/3q6a4b3d9tI"
-  },
-  {
-    "title": "Euphoria (Extended Version)",
-    "album": "Love Yourself: Answer (Extended Version)",
-    "release": "2018-09-07",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Blue & Grey (Acoustic Version)",
-    "album": "BE (Acoustic Version)",
-    "release": "2020-12-18",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Butter (Remix)",
-    "album": "Butter (Remix)",
-    "release": "2021-08-27",
-    "youtube": "https://youtu.be/WMweEpGlu_U"
-  },
-  {
-    "title": "Dynamite (Live)",
-    "album": "Dynamite (Live)",
-    "release": "2020-08-21",
-    "youtube": "https://youtu.be/gdZLi9oWNZg"
-  },
-  {
-    "title": "Life Goes On (Live)",
-    "album": "BE (Live)",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Permission to Dance (Remix)",
-    "album": "Permission to Dance (Remix)",
-    "release": "2021-08-06",
-    "youtube": "https://youtu.be/CuklIb9d3fI"
-  },
-  {
-    "title": "Black Swan (Dance Practice)",
-    "album": "Map of the Soul: 7 (Dance Practice)",
-    "release": "2020-01-17",
-    "youtube": "https://youtu.be/1n8j2b3d9tI"
-  },
-  {
-    "title": "Stay Gold (Live)",
-    "album": "Map of the Soul: 7 - The Journey (Live)",
-    "release": "2020-06-19",
-    "youtube": "https://youtu.be/5q6a4b3d9tI"
-  },
-  {
-    "title": "Your Eyes Tell (Live)",
-    "album": "Your Eyes Tell (Live)",
-    "release": "2020-07-01",
-    "youtube": "https://youtu.be/3q6a4b3d9tI"
-  },
-  {
-    "title": "Euphoria (Live)",
-    "album": "Love Yourself: Answer (Live)",
-    "release": "2018-08-24",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Spring Day (Remix)",
-    "album": "You Never Walk Alone (Remix)",
-    "release": "2021-03-05",
-    "youtube": "https://youtu.be/xEeFrLSkMm8"
-  },
-  {
-    "title": "Blue & Grey (Live)",
-    "album": "BE (Live)",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Butter (Choreography Version)",
-    "album": "Butter (Choreography Version)",
-    "release": "2021-05-21",
-    "youtube": "https://youtu.be/WMweEpGlu_U"
-  },
-  {
-    "title": "Dynamite (Choreography Version)",
-    "album": "Dynamite (Choreography Version)",
-    "release": "2020-08-21",
-    "youtube": "https://youtu.be/gdZLi9oWNZg"
-  },
-  {
-    "title": "Life Goes On (Acoustic Live)",
-    "album": "BE (Acoustic Live)",
-    "release": "2020-12-11",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Permission to Dance (Acoustic Version)",
-    "album": "Permission to Dance (Acoustic Version)",
-    "release": "2021-07-16",
-    "youtube": "https://youtu.be/CuklIb9d3fI"
-  },
-  {
-    "title": "Black Swan (Live)",
-    "album": "Map of the Soul: 7 (Live)",
-    "release": "2020-01-17",
-    "youtube": "https://youtu.be/1n8j2b3d9tI"
-  },
-  {
-    "title": "Stay Gold (Dance Practice)",
-    "album": "Map of the Soul: 7 - The Journey (Dance Practice)",
-    "release": "2020-06-19",
-    "youtube": "https://youtu.be/5q6a4b3d9tI"
-  },
-  {
-    "title": "Your Eyes Tell (Acoustic Live)",
-    "album": "Your Eyes Tell (Acoustic Live)",
-    "release": "2020-07-08",
-    "youtube": "https://youtu.be/3q6a4b3d9tI"
-  },
-  {
-    "title": "Euphoria (Dance Practice)",
-    "album": "Love Yourself: Answer (Dance Practice)",
-    "release": "2018-08-24",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Spring Day (Orchestral Version)",
-    "album": "You Never Walk Alone (Orchestral Version)",
-    "release": "2021-04-02",
-    "youtube": "https://youtu.be/xEeFrLSkMm8"
-  },
-  {
-    "title": "Blue & Grey (Piano Version)",
-    "album": "BE (Piano Version)",
-    "release": "2020-12-25",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Butter (Acoustic Version)",
-    "album": "Butter (Acoustic Version)",
-    "release": "2021-06-11",
-    "youtube": "https://youtu.be/WMweEpGlu_U"
-  },
-  {
-    "title": "Dynamite (Remix Live)",
-    "album": "Dynamite (Remix Live)",
-    "release": "2020-09-25",
-    "youtube": "https://youtu.be/gdZLi9oWNZg"
-  },
-  {
-    "title": "Life Goes On (Remix Live)",
-    "album": "BE (Remix Live)",
-    "release": "2021-02-05",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Permission to Dance (Choreography Version)",
-    "album": "Permission to Dance (Choreography Version)",
-    "release": "2021-07-23",
-    "youtube": "https://youtu.be/CuklIb9d3fI"
-  },
-  {
-    "title": "Black Swan (Acoustic Version)",
-    "album": "Map of the Soul: 7 (Acoustic Version)",
-    "release": "2020-02-14",
-    "youtube": "https://youtu.be/1n8j2b3d9tI"
-  },
-  {
-    "title": "Stay Gold (Remix)",
-    "album": "Map of the Soul: 7 - The Journey (Remix)",
-    "release": "2020-07-24",
-    "youtube": "https://youtu.be/5q6a4b3d9tI"
-  },
-  {
-    "title": "Your Eyes Tell (Remix)",
-    "album": "Your Eyes Tell (Remix)",
-    "release": "2020-07-22",
-    "youtube": "https://youtu.be/3q6a4b3d9tI"
-  },
-  {
-    "title": "Euphoria (Remix)",
-    "album": "Love Yourself: Answer (Remix)",
-    "release": "2018-09-14",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Spring Day (Dance Practice)",
-    "album": "You Never Walk Alone (Dance Practice)",
-    "release": "2017-02-13",
-    "youtube": "https://youtu.be/xEeFrLSkMm8"
-  },
-  {
-    "title": "Blue & Grey (Dance Practice)",
-    "album": "BE (Dance Practice)",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Butter (Live Performance)",
-    "album": "Butter (Live Performance)",
-    "release": "2021-05-21",
-    "youtube": "https://youtu.be/WMweEpGlu_U"
-  },
-  {
-    "title": "Dynamite (Dance Practice)",
-    "album": "Dynamite (Dance Practice)",
-    "release": "2020-08-21",
-    "youtube": "https://youtu.be/gdZLi9oWNZg"
-  },
-  {
-    "title": "Life Goes On (Dance Practice)",
-    "album": "BE (Dance Practice)",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Permission to Dance (Live Performance)",
-    "album": "Permission to Dance (Live Performance)",
-    "release": "2021-07-09",
-    "youtube": "https://youtu.be/CuklIb9d3fI"
-  },
-  {
-    "title": "Black Swan (Live Performance)",
-    "album": "Map of the Soul: 7 (Live Performance)",
-    "release": "2020-01-17",
-    "youtube": "https://youtu.be/1n8j2b3d9tI"
-  },
-  {
-    "title": "Stay Gold (Live Performance)",
-    "album": "Map of the Soul: 7 - The Journey (Live Performance)",
-    "release": "2020-06-19",
-    "youtube": "https://youtu.be/5q6a4b3d9tI"
-  },
-  {
-    "title": "Your Eyes Tell (Live Performance)",
-    "album": "Your Eyes Tell (Live Performance)",
-    "release": "2020-07-01",
-    "youtube": "https://youtu.be/3q6a4b3d9tI"
-  },
-  {
-    "title": "Euphoria (Live Performance)",
-    "album": "Love Yourself: Answer (Live Performance)",
-    "release": "2018-08-24",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Spring Day (Acoustic Live)",
-    "album": "You Never Walk Alone (Acoustic Live)",
-    "release": "2021-02-13",
-    "youtube": "https://youtu.be/xEeFrLSkMm8"
-  },
-  {
-    "title": "Blue & Grey (Acoustic Live)",
-    "album": "BE (Acoustic Live)",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Butter (Acoustic Live)",
-    "album": "Butter (Acoustic Live)",
-    "release": "2021-06-11",
-    "youtube": "https://youtu.be/WMweEpGlu_U"
-  },
-  {
-    "title": "Dynamite (Acoustic Live)",
-    "album": "Dynamite (Acoustic Live)",
-    "release": "2020-09-18",
-    "youtube": "https://youtu.be/gdZLi9oWNZg"
-  },
-  {
-    "title": "Life Goes On (Live Performance)",
-    "album": "BE (Live Performance)",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Permission to Dance (Live Performance)",
-    "album": "Permission to Dance (Live Performance)",
-    "release": "2021-07-09",
-    "youtube": "https://youtu.be/CuklIb9d3fI"
-  },
-  {
-    "title": "Black Swan (Acoustic Live)",
-    "album": "Map of the Soul: 7 (Acoustic Live)",
-    "release": "2020-02-14",
-    "youtube": "https://youtu.be/1n8j2b3d9tI"
-  },
-  {
-    "title": "Stay Gold (Acoustic Live)",
-    "album": "Map of the Soul: 7 - The Journey (Acoustic Live)",
-    "release": "2020-07-01",
-    "youtube": "https://youtu.be/5q6a4b3d9tI"
-  },
-  {
-    "title": "Your Eyes Tell (Acoustic Live)",
-    "album": "Your Eyes Tell (Acoustic Live)",
-    "release": "2020-07-08",
-    "youtube": "https://youtu.be/3q6a4b3d9tI"
-  },
-  {
-    "title": "Euphoria (Acoustic Live)",
-    "album": "Love Yourself: Answer (Acoustic Live)",
-    "release": "2018-09-07",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Spring Day (Remix Live)",
-    "album": "You Never Walk Alone (Remix Live)",
-    "release": "2021-03-05",
-    "youtube": "https://youtu.be/xEeFrLSkMm8"
-  },
-  {
-    "title": "Blue & Grey (Remix Live)",
-    "album": "BE (Remix Live)",
-    "release": "2020-12-04",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Butter (Remix Live)",
-    "album": "Butter (Remix Live)",
-    "release": "2021-08-27",
-    "youtube": "https://youtu.be/WMweEpGlu_U"
-  },
-  {
-    "title": "Dynamite (Remix Live)",
-    "album": "Dynamite (Remix Live)",
-    "release": "2020-10-23",
-    "youtube": "https://youtu.be/gdZLi9oWNZg"
-  },
-  {
-    "title": "Life Goes On (Remix Live)",
-    "album": "BE (Remix Live)",
-    "release": "2021-01-15",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Permission to Dance (Remix Live)",
-    "album": "Permission to Dance (Remix Live)",
-    "release": "2021-08-06",
-    "youtube": "https://youtu.be/CuklIb9d3fI"
-  },
-  {
-    "title": "Black Swan (Remix Live)",
-    "album": "Map of the Soul: 7 (Remix Live)",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/1n8j2b3d9tI"
-  },
-  {
-    "title": "Stay Gold (Remix Live)",
-    "album": "Map of the Soul: 7 - The Journey (Remix Live)",
-    "release": "2020-07-24",
-    "youtube": "https://youtu.be/5q6a4b3d9tI"
-  },
-  {
-    "title": "Your Eyes Tell (Remix Live)",
-    "album": "Your Eyes Tell (Remix Live)",
-    "release": "2020-07-22",
-    "youtube": "https://youtu.be/3q6a4b3d9tI"
-  },
-  {
-    "title": "Euphoria (Remix Live)",
-    "album": "Love Yourself: Answer (Remix Live)",
-    "release": "2018-09-14",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Spring Day (Orchestral Live)",
-    "album": "You Never Walk Alone (Orchestral Live)",
-    "release": "2021-04-02",
-    "youtube": "https://youtu.be/xEeFrLSkMm8"
-  },
-  {
-    "title": "Blue & Grey (Piano Live)",
-    "album": "BE (Piano Live)",
-    "release": "2020-12-25",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Butter (Acoustic Live)",
-    "album": "Butter (Acoustic Live)",
-    "release": "2021-06-11",
-    "youtube": "https://youtu.be/WMweEpGlu_U"
-  },
-  {
-    "title": "Dynamite (Live Remix)",
-    "album": "Dynamite (Live Remix)",
-    "release": "2020-09-25",
-    "youtube": "https://youtu.be/gdZLi9oWNZg"
-  },
-  {
-    "title": "Life Goes On (Live Remix)",
-    "album": "BE (Live Remix)",
-    "release": "2021-02-05",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  },
-  {
-    "title": "Permission to Dance (Choreography Live)",
-    "album": "Permission to Dance (Choreography Live)",
-    "release": "2021-07-23",
-    "youtube": "https://youtu.be/CuklIb9d3fI"
-  },
-  {
-    "title": "Black Swan (Acoustic Live)",
-    "album": "Map of the Soul: 7 (Acoustic Live)",
-    "release": "2020-02-14",
-    "youtube": "https://youtu.be/1n8j2b3d9tI"
-  },
-  {
-    "title": "Stay Gold (Remix Live)",
-    "album": "Map of the Soul: 7 - The Journey (Remix Live)",
-    "release": "2020-07-24",
-    "youtube": "https://youtu.be/5q6a4b3d9tI"
-  },
-  {
-    "title": "Your Eyes Tell (Remix Live)",
-    "album": "Your Eyes Tell (Remix Live)",
-    "release": "2020-07-22",
-    "youtube": "https://youtu.be/3q6a4b3d9tI"
-  },
-  {
-    "title": "Euphoria (Remix Live)",
-    "album": "Love Yourself: Answer (Remix Live)",
-    "release": "2018-09-14",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Spring Day (Dance Practice Live)",
-    "album": "You Never Walk Alone (Dance Practice Live)",
-    "release": "2017-02-13",
-    "youtube": "https://youtu.be/xEeFrLSkMm8"
-  },
-  {
-    "title": "Blue & Grey (Dance Practice Live)",
-    "album": "BE (Dance Practice Live)",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/1y6jM2m3g4U"
-  }
+{
+  "title": "Intro: 2 Cool 4 Skool",
+  "album": "2 Cool 4 Skool",
+  "release": "2013-06-12",
+  "youtube": "https://youtu.be/NtDSYtkH5lU"
+},
+{
+  "title": "We Are Bulletproof Pt.2",
+  "album": "2 Cool 4 Skool",
+  "release": "2013-06-12",
+  "youtube": "https://youtu.be/m8MfJg68oCs"
+},
+{
+  "title": "Skit: Circle Room Talk",
+  "album": "2 Cool 4 Skool",
+  "release": "2013-06-12",
+  "youtube": "https://youtu.be/UYdnEj3Kq0I"
+},
+{
+  "title": "No More Dream",
+  "album": "2 Cool 4 Skool",
+  "release": "2013-06-12",
+  "youtube": "https://youtu.be/rBG5L7UsUxA"
+},
+{
+  "title": "Interlude",
+  "album": "2 Cool 4 Skool",
+  "release": "2013-06-12",
+  "youtube": "https://youtu.be/WpMql5-WyGI"
+},
+{
+  "title": "Like",
+  "album": "2 Cool 4 Skool",
+  "release": "2013-06-12",
+  "youtube": "https://youtu.be/jjskoRh8GTE"
+},
+{
+  "title": "Outro: Circle Room Cypher",
+  "album": "2 Cool 4 Skool",
+  "release": "2013-06-12",
+  "youtube": "https://youtu.be/zDJsmcFecQY"
+}
+{
+  "title": "Intro: O!RUL8,2?",
+  "album": "O!RUL8,2?",
+  "release": "2013-09-11",
+  "youtube": "https://youtu.be/0BCAnNgPY9k"
+},
+{
+  "title": "N.O",
+  "album": "O!RUL8,2?",
+  "release": "2013-09-11",
+  "youtube": "https://youtu.be/mmgxPLLLyVo"
+},
+{
+  "title": "We On",
+  "album": "O!RUL8,2?",
+  "release": "2013-09-11",
+  "youtube": "https://youtu.be/NsQYo3jPztg"
+},
+{
+  "title": "Skit: R U Happy Now?",
+  "album": "O!RUL8,2?",
+  "release": "2013-09-11",
+  "youtube": "https://youtu.be/RvnkAtWcKYg"
+},
+{
+  "title": "If I Ruled The World",
+  "album": "O!RUL8,2?",
+  "release": "2013-09-11",
+  "youtube": "https://youtu.be/1oxZuGtLGt8"
+}
+{
+  "title": "Coffee",
+  "album": "O!RUL8,2?",
+  "release": "2013-09-11",
+  "youtube": "https://youtu.be/yybPec9Cj28"
+},
+{
+  "title": "BTS Cypher Pt.1",
+  "album": "O!RUL8,2?",
+  "release": "2013-09-11",
+  "youtube": "https://youtu.be/RX14r2WE4C4"
+},
+{
+  "title": "Attack on Bangtan",
+  "album": "O!RUL8,2?",
+  "release": "2013-09-11",
+  "youtube": "https://youtu.be/UgIwjLg4ONk"
+},
+{
+  "title": "Paldogangsan",
+  "album": "O!RUL8,2?",
+  "release": "2013-09-11",
+  "youtube": "https://youtu.be/HXQ7kM3Bxzw"
+},
+{
+  "title": "Outro: Luv In Skool",
+  "album": "O!RUL8,2?",
+  "release": "2013-09-11",
+  "youtube": "https://youtu.be/oWk5s0HE4wo"
+}
+{
+  "title": "Intro: Skool Luv Affair",
+  "album": "Skool Luv Affair",
+  "release": "2014-02-12",
+  "youtube": "https://youtu.be/Mi8k0Xwxn1o"
+},
+{
+  "title": "Boy In Luv",
+  "album": "Skool Luv Affair",
+  "release": "2014-02-12",
+  "youtube": "https://youtu.be/m8MfJg68oCs"
+},
+{
+  "title": "Skit: Soulmate",
+  "album": "Skool Luv Affair",
+  "release": "2014-02-12",
+  "youtube": "https://youtu.be/UTr7V0d9Uv8"
+},
+{
+  "title": "Where You From",
+  "album": "Skool Luv Affair",
+  "release": "2014-02-12",
+  "youtube": "https://youtu.be/32qQz2sYQ1g"
+},
+{
+  "title": "Just One Day",
+  "album": "Skool Luv Affair",
+  "release": "2014-02-12",
+  "youtube": "https://youtu.be/dzAwJW107Nk"
+},
+{
+  "title": "Tomorrow",
+  "album": "Skool Luv Affair",
+  "release": "2014-02-12",
+  "youtube": "https://youtu.be/f3T4wF9nFdw"
+},
+{
+  "title": "BTS Cypher Pt.2: Triptych",
+  "album": "Skool Luv Affair",
+  "release": "2014-02-12",
+  "youtube": "https://youtu.be/WA-yeSxLykQ"
+},
+{
+  "title": "Spine Breaker",
+  "album": "Skool Luv Affair",
+  "release": "2014-02-12",
+  "youtube": "https://youtu.be/9gM9UkbyBCY"
+},
+{
+  "title": "Jump",
+  "album": "Skool Luv Affair",
+  "release": "2014-02-12",
+  "youtube": "https://youtu.be/_I_DjGcVQ08"
+},
+{
+  "title": "Outro: Propose",
+  "album": "Skool Luv Affair",
+  "release": "2014-02-12",
+  "youtube": "https://youtu.be/YNWwBd_g_5Y"
+}
+{
+  "title": "Singularity",
+  "album": "Love Yourself: Tear",
+  "release": "2018-05-18",
+  "youtube": "https://youtu.be/p8npDG2ulKQ"
+},
+{
+  "title": "FAKE LOVE",
+  "album": "Love Yourself: Tear",
+  "release": "2018-05-18",
+  "youtube": "https://youtu.be/7C2z4GqqS5E"
+},
+{
+  "title": "The Truth Untold (ft. Steve Aoki)",
+  "album": "Love Yourself: Tear",
+  "release": "2018-05-18",
+  "youtube": "https://youtu.be/fIkZOLsnoqY"
+},
+{
+  "title": "Waste It On Me (with Steve Aoki)",
+  "album": "Single",
+  "release": "2018-10-25",
+  "youtube": "https://youtu.be/b5A8mPbB4lE"
+},
+{
+  "title": "Trivia 轉: Seesaw",
+  "album": "Love Yourself: Answer",
+  "release": "2018-08-24",
+  "youtube": "https://youtu.be/UEPy6JmCxqk"
+},
+{
+  "title": "Tear",
+  "album": "Love Yourself: Tear",
+  "release": "2018-05-18",
+  "youtube": "https://youtu.be/oY9m2sHQwLs"
+},
+{
+  "title": "Epiphany",
+  "album": "Love Yourself: Answer",
+  "release": "2018-08-24",
+  "youtube": "https://youtu.be/fIkZOLsnoqY"
+},
+{
+  "title": "I'm Fine",
+  "album": "Love Yourself: Answer",
+  "release": "2018-08-24",
+  "youtube": "https://youtu.be/urx8U_37Jps"
+},
+{
+  "title": "IDOL",
+  "album": "Love Yourself: Answer",
+  "release": "2018-08-24",
+  "youtube": "https://youtu.be/pBuZEGYXA6E"
+},
+{
+  "title": "Answer: Love Myself",
+  "album": "Love Yourself: Answer",
+  "release": "2018-08-24",
+  "youtube": "https://youtu.be/pBuZEGYXA6E?t=240"
+}
+{
+  "title": "Magic Shop",
+  "album": "Love Yourself 轉 'Tear'",
+  "release": "2018-05-18",
+  "youtube": "https://youtu.be/uPP8wrFWm-0"
+},
+{
+  "title": "Best Of Me",
+  "album": "Love Yourself 承 'Her'",
+  "release": "2017-09-18",
+  "youtube": "https://youtu.be/h6lwECOdHJk"
+},
+{
+  "title": "Airplane pt.2",
+  "album": "Love Yourself 轉 'Tear'",
+  "release": "2018-05-18",
+  "youtube": "https://youtu.be/MtVym2x6FnE"
+},
+{
+  "title": "Go Go",
+  "album": "Love Yourself 承 'Her'",
+  "release": "2017-09-18",
+  "youtube": "https://youtu.be/9o7L1f2ma2I"
+},
+{
+  "title": "Anpanman",
+  "album": "Love Yourself 轉 'Tear'",
+  "release": "2018-05-18",
+  "youtube": "https://youtu.be/ALj5MKjy2BU"
+},
+{
+  "title": "MIC Drop",
+  "album": "Love Yourself 承 'Her'",
+  "release": "2017-09-18",
+  "youtube": "https://youtu.be/wKysONrSmew"
+},
+{
+  "title": "DNA (Pedal 2 LA Mix)",
+  "album": "Love Yourself 承 'Her'",
+  "release": "2017-09-18",
+  "youtube": "https://youtu.be/MBdVXkSdhwU"
+},
+{
+  "title": "FAKE LOVE",
+  "album": "Love Yourself 轉 'Tear'",
+  "release": "2018-05-18",
+  "youtube": "https://youtu.be/7C2z4GqqS5E"
+},
+{
+  "title": "Intro: Persona",
+  "album": "Map of the Soul: Persona",
+  "release": "2019-04-12",
+  "youtube": "https://youtu.be/9SmQOZWNyWE"
+},
+{
+  "title": "Boy With Luv (feat. Halsey)",
+  "album": "Map of the Soul: Persona",
+  "release": "2019-04-12",
+  "youtube": "https://youtu.be/XsX3ATc3FbA"
+},
+{
+  "title": "Mikrokosmos",
+  "album": "Map of the Soul: Persona",
+  "release": "2019-04-12",
+  "youtube": "https://youtu.be/5WRK0WpBHYg"
+},
+{
+  "title": "Make It Right",
+  "album": "Map of the Soul: Persona",
+  "release": "2019-04-12",
+  "youtube": "https://youtu.be/eXBu09fwe3I"
+},
+{
+  "title": "HOME",
+  "album": "Map of the Soul: Persona",
+  "release": "2019-04-12",
+  "youtube": "https://youtu.be/qt0hPjcQ_QQ"
+},
+{
+  "title": "Jamais Vu",
+  "album": "Map of the Soul: Persona",
+  "release": "2019-04-12",
+  "youtube": "https://youtu.be/Bo0Kk85Y3vU"
+},
+{
+  "title": "Dionysus",
+  "album": "Map of the Soul: Persona",
+  "release": "2019-04-12",
+  "youtube": "https://youtu.be/jUJk9h5Hj6M"
+}
+{
+  "title": "Interlude: Shadow",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/eXBu09fwe3I"
+},
+{
+  "title": "Black Swan",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/0lapF4DQPKQ"
+},
+{
+  "title": "Filter",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/pSUydWEqKwE"
+},
+{
+  "title": "My Time",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/6TL84MxBUWc"
+},
+{
+  "title": "Louder than bombs",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/Ob1YYfLW_Ek"
+},
+{
+  "title": "ON",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/mPVDGOVjRQ0"
+},
+{
+  "title": "UGH!",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/UJ-GkB9c6fY"
+},
+{
+  "title": "00:00 (Zero O'Clock)",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/dzAwJW107nk"
+},
+{
+  "title": "Inner Child",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/VpbuVbxG0kU"
+},
+{
+  "title": "Friends",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/OAUw3UY1GJU"
+},
+{
+  "title": "Moon",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/W2LeeXD6nR8"
+},
+{
+  "title": "Respect",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/RMqmvOxzf5w"
+},
+{
+  "title": "We are Bulletproof: the Eternal",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/IbfD1CsNJPE"
+},
+{
+  "title": "Outro: Ego",
+  "album": "Map of the Soul: 7",
+  "release": "2020-02-21",
+  "youtube": "https://youtu.be/6napu-MGdLY"
+},
+{
+  "title": "Life Goes On",
+  "album": "BE",
+  "release": "2020-11-20",
+  "youtube": "https://youtu.be/-5q5mZbe3V8"
+},
+{
+  "title": "Fly To My Room",
+  "album": "BE",
+  "release": "2020-11-20",
+  "youtube": "https://youtu.be/aZjG4uKqgx4"
+},
+{
+  "title": "Blue & Grey",
+  "album": "BE",
+  "release": "2020-11-20",
+  "youtube": "https://youtu.be/bTS3YitBbiw"
+},
+{
+  "title": "Skit",
+  "album": "BE",
+  "release": "2020-11-20",
+  "youtube": "https://youtu.be/dVJhjFsLgsE"
+},
+{
+  "title": "Telepathy",
+  "album": "BE",
+  "release": "2020-11-20",
+  "youtube": "https://youtu.be/SlO3KaT3qIY"
+},
+{
+  "title": "Dis-ease",
+  "album": "BE",
+  "release": "2020-11-20",
+  "youtube": "https://youtu.be/qvOQu5P3P9U"
+},
+{
+  "title": "Stay",
+  "album": "BE",
+  "release": "2020-11-20",
+  "youtube": "https://youtu.be/4tQ5bOUhi0c"
+},
+{
+  "title": "Dynamite",
+  "album": "Single",
+  "release": "2020-08-21",
+  "youtube": "https://youtu.be/gdZLi9oWNZg"
+}
+{
+  "title": "Butter",
+  "album": "Single",
+  "release": "2021-05-21",
+  "youtube": "https://youtu.be/WMweEpGlu_U"
+},
+{
+  "title": "Permission to Dance",
+  "album": "Single",
+  "release": "2021-07-09",
+  "youtube": "https://youtu.be/CuklIb9d3fI"
+},
+{
+  "title": "My Universe",
+  "album": "Music of the Spheres (Coldplay × BTS)",
+  "release": "2021-09-24",
+  "youtube": "https://youtu.be/3YqPKLZF_WU"
+},
+{
+  "title": "Film Out",
+  "album": "BTS, THE BEST (Japanese)",
+  "release": "2021-04-02",
+  "youtube": "https://youtu.be/zFT3f9biz68"
+},
+{
+  "title": "Run BTS",
+  "album": "Proof",
+  "release": "2022-06-10",
+  "youtube": "https://youtu.be/7UWBYJjuIL0"
+},
+{
+  "title": "Yet To Come",
+  "album": "Proof",
+  "release": "2022-06-10",
+  "youtube": "https://youtu.be/kXpOEzNZ8hQ"
+},
+{
+  "title": "Bad Decisions",
+  "album": "Single (Benny Blanco × BTS × Snoop Dogg)",
+  "release": "2022-08-05",
+  "youtube": "https://youtu.be/c0g1PXY5k_k"
+},
+{
+  "title": "The Planet",
+  "album": "OST (Bastions)",
+  "release": "2023-05-12",
+  "youtube": "https://youtu.be/dNCWEYfPKUk"
+},
+{
+  "title": "Take Two",
+  "album": "Single",
+  "release": "2023-06-09",
+  "youtube": "https://youtu.be/kxpJh9hQyD8"
+},
+{
+  "title": "Left and Right",
+  "album": "Single (Charlie Puth × Jungkook of BTS)",
+  "release": "2022-06-24",
+  "youtube": "https://youtu.be/a7GITgqwDVg"
+}
+{
+  "title": "For Youth",
+  "album": "Proof",
+  "release": "2022-06-10",
+  "youtube": "https://youtu.be/1f8k3X7Q1mY"
+}
 ]
