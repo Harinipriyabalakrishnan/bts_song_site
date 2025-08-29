@@ -1,536 +1,303 @@
 [
- {
-    "title": "Intro: 2 Cool 4 Skool",
-    "album": "2 Cool 4 Skool",
-    "release": "2013-06-12",
-    "youtube": "https://youtu.be/NtDSYtkH5lU"
-  },
-  {
-    "title": "We Are Bulletproof Pt.2",
-    "album": "2 Cool 4 Skool",
-    "release": "2013-06-12",
-    "youtube": "https://youtu.be/m8MfJg68oCs"
-  },
-  {
-    "title": "Skit: Circle Room Talk",
-    "album": "2 Cool 4 Skool",
-    "release": "2013-06-12",
-    "youtube": "https://youtu.be/UYdnEj3Kq0I"
-  },
   {
     "title": "No More Dream",
+    "artist": "BTS",
     "album": "2 Cool 4 Skool",
     "release": "2013-06-12",
     "youtube": "https://youtu.be/rBG5L7UsUxA"
   },
   {
-    "title": "Interlude",
-    "album": "2 Cool 4 Skool",
-    "release": "2013-06-12",
-    "youtube": "https://youtu.be/WpMql5-WyGI"
-  },
-  {
-    "title": "Like",
-    "album": "2 Cool 4 Skool",
-    "release": "2013-06-12",
-    "youtube": "https://youtu.be/jjskoRh8GTE"
-  },
-  {
-    "title": "Outro: Circle Room Cypher",
-    "album": "2 Cool 4 Skool",
-    "release": "2013-06-12",
-    "youtube": "https://youtu.be/zDJsmcFecQY"
-  },
-  {
-    "title": "Intro: O!RUL8,2?",
-    "album": "O!RUL8,2?",
-    "release": "2013-09-11",
-    "youtube": "https://youtu.be/0BCAnNgPY9k"
-  },
-  {
     "title": "N.O",
+    "artist": "BTS",
     "album": "O!RUL8,2?",
     "release": "2013-09-11",
     "youtube": "https://youtu.be/mmgxPLLLyVo"
   },
   {
-    "title": "We On",
-    "album": "O!RUL8,2?",
-    "release": "2013-09-11",
-    "youtube": "https://youtu.be/NsQYo3jPztg"
-  },
-  {
-    "title": "Skit: R U Happy Now?",
-    "album": "O!RUL8,2?",
-    "release": "2013-09-11",
-    "youtube": "https://youtu.be/RvnkAtWcKYg"
-  },
-  {
-    "title": "If I Ruled The World",
-    "album": "O!RUL8,2?",
-    "release": "2013-09-11",
-    "youtube": "https://youtu.be/1oxZuGtLGt8"
-  },
-  {
-    "title": "Coffee",
-    "album": "O!RUL8,2?",
-    "release": "2013-09-11",
-    "youtube": "https://youtu.be/yybPec9Cj28"
-  },
-  {
-    "title": "BTS Cypher Pt.1",
-    "album": "O!RUL8,2?",
-    "release": "2013-09-11",
-    "youtube": "https://youtu.be/RX14r2WE4C4"
-  },
-  {
-    "title": "Attack on Bangtan",
-    "album": "O!RUL8,2?",
-    "release": "2013-09-11",
-    "youtube": "https://youtu.be/UgIwjLg4ONk"
-  },
-  {
-    "title": "Paldogangsan",
-    "album": "O!RUL8,2?",
-    "release": "2013-09-11",
-    "youtube": "https://youtu.be/HXQ7kM3Bxzw"
-  },
-  {
-    "title": "Outro: Luv In Skool",
-    "album": "O!RUL8,2?",
-    "release": "2013-09-11",
-    "youtube": "https://youtu.be/oWk5s0HE4wo"
-  },
-  {
-    "title": "Intro: Skool Luv Affair",
-    "album": "Skool Luv Affair",
-    "release": "2014-02-12",
-    "youtube": "https://youtu.be/Mi8k0Xwxn1o"
-  },
-  {
     "title": "Boy In Luv",
+    "artist": "BTS",
     "album": "Skool Luv Affair",
     "release": "2014-02-12",
     "youtube": "https://youtu.be/m8MfJg68oCs"
   },
   {
-    "title": "Skit: Soulmate",
-    "album": "Skool Luv Affair",
-    "release": "2014-02-12",
-    "youtube": "https://youtu.be/UTr7V0d9Uv8"
+    "title": "Danger",
+    "artist": "BTS",
+    "album": "Dark & Wild",
+    "release": "2014-08-19",
+    "youtube": "https://youtu.be/bagj78IQ3l0"
   },
   {
-    "title": "Where You From",
-    "album": "Skool Luv Affair",
-    "release": "2014-02-12",
-    "youtube": "https://youtu.be/32qQz2sYQ1g"
-  },
-  {
-    "title": "Just One Day",
-    "album": "Skool Luv Affair",
-    "release": "2014-02-12",
-    "youtube": "https://youtu.be/dzAwJW107Nk"
-  },
-  {
-    "title": "Tomorrow",
-    "album": "Skool Luv Affair",
-    "release": "2014-02-12",
-    "youtube": "https://youtu.be/f3T4wF9nFdw"
-  },
-  {
-    "title": "BTS Cypher Pt.2: Triptych",
-    "album": "Skool Luv Affair",
-    "release": "2014-02-12",
-    "youtube": "https://youtu.be/WA-yeSxLykQ"
-  },
-  {
-    "title": "Spine Breaker",
-    "album": "Skool Luv Affair",
-    "release": "2014-02-12",
-    "youtube": "https://youtu.be/9gM9UkbyBCY"
-  },
-  {
-    "title": "Jump",
-    "album": "Skool Luv Affair",
-    "release": "2014-02-12",
-    "youtube": "https://youtu.be/_I_DjGcVQ08"
-  },
-  {
-    "title": "Outro: Propose",
-    "album": "Skool Luv Affair",
-    "release": "2014-02-12",
-    "youtube": "https://youtu.be/YNWwBd_g_5Y"
-  },
-  {
-    "title": "Intro: The Most Beautiful Moment in Life",
+    "title": "I Need U",
+    "artist": "BTS",
     "album": "The Most Beautiful Moment in Life, Pt.1",
     "release": "2015-04-29",
-    "youtube": "https://youtu.be/8Zp3f0Gk4mA"
+    "youtube": "https://youtu.be/jjskoRh8GTE?si=rOdjFW5l7FWmE_NX"
   },
   {
-    "title": "I NEED U",
-    "album": "The Most Beautiful Moment in Life, Pt.1",
-    "release": "2015-04-29",
-    "youtube": "https://youtu.be/3jZ5vnv-LZc"
+    "title": "Run",
+    "artist": "BTS",
+    "album": "The Most Beautiful Moment in Life, Pt.2",
+    "release": "2015-11-30",
+    "youtube": "https://youtu.be/wKysONrSmew"
   },
   {
-    "title": "Hold Me Tight",
-    "album": "The Most Beautiful Moment in Life, Pt.1",
-    "release": "2015-04-29",
-    "youtube": "https://youtu.be/9m9rV7WkHn8"
+    "title": "Fire",
+    "artist": "BTS",
+    "album": "The Most Beautiful Moment in Life: Young Forever",
+    "release": "2016-05-02",
+    "youtube": "https://youtu.be/ALj5MKjy2BU"
   },
   {
-    "title": "Skool Luv Affair",
-    "album": "The Most Beautiful Moment in Life, Pt.1",
-    "release": "2015-04-29",
-    "youtube": "https://youtu.be/32qQz2sYQ1g"
-  }, 
-  {
-    "title": "Singularity",
-    "album": "Love Yourself: Tear",
-    "release": "2018-05-18",
-    "youtube": "https://youtu.be/p8npDG2ulKQ"
+    "title": "Save Me",
+    "artist": "BTS",
+    "album": "The Most Beautiful Moment in Life: Young Forever",
+    "release": "2016-05-15",
+    "youtube": "https://youtu.be/GZjt_sA2eso"
   },
   {
-    "title": "FAKE LOVE",
+    "title": "Blood Sweat & Tears",
+    "artist": "BTS",
+    "album": "Wings",
+    "release": "2016-10-10",
+    "youtube": "https://youtu.be/hmE9f-TEutc"
+  },
+  {
+    "title": "Spring Day",
+    "artist": "BTS",
+    "album": "You Never Walk Alone",
+    "release": "2017-02-13",
+    "youtube": "https://youtu.be/xEeFrLSkMm8"
+  },
+  {
+    "title": "DNA",
+    "artist": "BTS",
+    "album": "Love Yourself: Her",
+    "release": "2017-09-18",
+    "youtube": "https://youtu.be/MBdVXkSdhwU"
+  },
+  {
+    "title": "Fake Love",
+    "artist": "BTS",
     "album": "Love Yourself: Tear",
     "release": "2018-05-18",
     "youtube": "https://youtu.be/7C2z4GqqS5E"
   },
   {
-    "title": "The Truth Untold (ft. Steve Aoki)",
-    "album": "Love Yourself: Tear",
-    "release": "2018-05-18",
-    "youtube": "https://youtu.be/fIkZOLsnoqY"
-  },
-  {
-    "title": "Waste It On Me (with Steve Aoki)",
-    "album": "Single",
-    "release": "2018-10-25",
-    "youtube": "https://youtu.be/b5A8mPbB4lE"
-  },
-  {
-    "title": "Trivia 轉: Seesaw",
-    "album": "Love Yourself: Answer",
-    "release": "2018-08-24",
-    "youtube": "https://youtu.be/UEPy6JmCxqk"
-  },
-  {
-    "title": "Tear",
-    "album": "Love Yourself: Tear",
-    "release": "2018-05-18",
-    "youtube": "https://youtu.be/oY9m2sHQwLs"
-  },
-  {
-    "title": "Epiphany",
-    "album": "Love Yourself: Answer",
-    "release": "2018-08-24",
-    "youtube": "https://youtu.be/fIkZOLsnoqY"
-  },
-  {
-    "title": "I'm Fine",
-    "album": "Love Yourself: Answer",
-    "release": "2018-08-24",
-    "youtube": "https://youtu.be/urx8U_37Jps"
-  },
-  {
-    "title": "IDOL",
+    "title": "Idol",
+    "artist": "BTS",
     "album": "Love Yourself: Answer",
     "release": "2018-08-24",
     "youtube": "https://youtu.be/pBuZEGYXA6E"
   },
   {
-    "title": "Answer: Love Myself",
-    "album": "Love Yourself: Answer",
-    "release": "2018-08-24",
-    "youtube": "https://youtu.be/pBuZEGYXA6E?t=240"
-  },
-  {
-    "title": "Magic Shop",
-    "album": "Love Yourself 轉 'Tear'",
-    "release": "2018-05-18",
-    "youtube": "https://youtu.be/uPP8wrFWm-0"
-  },
-  {
-    "title": "Best Of Me",
-    "album": "Love Yourself 承 'Her'",
-    "release": "2017-09-18",
-    "youtube": "https://youtu.be/h6lwECOdHJk"
-  },
-  {
-    "title": "Airplane pt.2",
-    "album": "Love Yourself 轉 'Tear'",
-    "release": "2018-05-18",
-    "youtube": "https://youtu.be/MtVym2x6FnE"
-  },
-  {
-    "title": "Go Go",
-    "album": "Love Yourself 承 'Her'",
-    "release": "2017-09-18",
-    "youtube": "https://youtu.be/9o7L1f2ma2I"
-  },
-  {
-    "title": "Anpanman",
-    "album": "Love Yourself 轉 'Tear'",
-    "release": "2018-05-18",
-    "youtube": "https://youtu.be/ALj5MKjy2BU"
-  },
-  {
-    "title": "MIC Drop",
-    "album": "Love Yourself 承 'Her'",
-    "release": "2017-09-18",
-    "youtube": "https://youtu.be/wKysONrSmew"
-  },
-  {
-    "title": "DNA (Pedal 2 LA Mix)",
-    "album": "Love Yourself 承 'Her'",
-    "release": "2017-09-18",
-    "youtube": "https://youtu.be/MBdVXkSdhwU"
-  },
-  {
-    "title": "FAKE LOVE",
-    "album": "Love Yourself 轉 'Tear'",
-    "release": "2018-05-18",
-    "youtube": "https://youtu.be/7C2z4GqqS5E"
-  },
-  {
-    "title": "Intro: Persona",
-    "album": "Map of the Soul: Persona",
-    "release": "2019-04-12",
-    "youtube": "https://youtu.be/9SmQOZWNyWE"
-  },
-  {
     "title": "Boy With Luv (feat. Halsey)",
+    "artist": "BTS",
     "album": "Map of the Soul: Persona",
     "release": "2019-04-12",
     "youtube": "https://youtu.be/XsX3ATc3FbA"
   },
   {
-    "title": "Mikrokosmos",
-    "album": "Map of the Soul: Persona",
-    "release": "2019-04-12",
-    "youtube": "https://youtu.be/5WRK0WpBHYg"
-  },
-  {
-    "title": "Make It Right",
-    "album": "Map of the Soul: Persona",
-    "release": "2019-04-12",
-    "youtube": "https://youtu.be/eXBu09fwe3I"
-  },
-  {
-    "title": "HOME",
-    "album": "Map of the Soul: Persona",
-    "release": "2019-04-12",
-    "youtube": "https://youtu.be/qt0hPjcQ_QQ"
-  },
-  {
-    "title": "Jamais Vu",
-    "album": "Map of the Soul: Persona",
-    "release": "2019-04-12",
-    "youtube": "https://youtu.be/Bo0Kk85Y3vU"
-  },
-  {
-    "title": "Dionysus",
-    "album": "Map of the Soul: Persona",
-    "release": "2019-04-12",
-    "youtube": "https://youtu.be/jUJk9h5Hj6M"
-  },
-  {
-    "title": "Interlude: Shadow",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/eXBu09fwe3I"
-  },
-  {
-    "title": "Black Swan",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/0lapF4DQPKQ"
-  },
-  {
-    "title": "Filter",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/pSUydWEqKwE"
-  },
-  {
-    "title": "My Time",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/6TL84MxBUWc"
-  },
-  {
-    "title": "Louder than bombs",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/Ob1YYfLW_Ek"
-  },
-  {
     "title": "ON",
+    "artist": "BTS",
     "album": "Map of the Soul: 7",
     "release": "2020-02-21",
-    "youtube": "https://youtu.be/mPVDGOVjRQ0"
+    "youtube": "https://youtu.be/gwMa6gpoE9I"
   },
   {
-    "title": "UGH!",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/UJ-GkB9c6fY"
-  },
-  {
-    "title": "00:00 (Zero O'Clock)",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/dzAwJW107nk"
-  },
-  {
-    "title": "Inner Child",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/VpbuVbxG0kU"
-  },
-  {
-    "title": "Friends",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/OAUw3UY1GJU"
-  },
-  {
-    "title": "Moon",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/W2LeeXD6nR8"
-  },
-  {
-    "title": "Respect",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/RMqmvOxzf5w"
-  },
-  {
-    "title": "We are Bulletproof: the Eternal",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/IbfD1CsNJPE"
-  },
-  {
-    "title": "Outro: Ego",
-    "album": "Map of the Soul: 7",
-    "release": "2020-02-21",
-    "youtube": "https://youtu.be/6napu-MGdLY"
+    "title": "Dynamite",
+    "artist": "BTS",
+    "album": "Dynamite (Single)",
+    "release": "2020-08-21",
+    "youtube": "https://youtu.be/gdZLi9oWNZg"
   },
   {
     "title": "Life Goes On",
+    "artist": "BTS",
     "album": "BE",
     "release": "2020-11-20",
     "youtube": "https://youtu.be/-5q5mZbe3V8"
   },
   {
-    "title": "Fly To My Room",
-    "album": "BE",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/aZjG4uKqgx4"
-  },
-  {
-    "title": "Blue & Grey",
-    "album": "BE",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/bTS3YitBbiw"
-  },
-  {
-    "title": "Skit",
-    "album": "BE",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/dVJhjFsLgsE"
-  },
-  {
-    "title": "Telepathy",
-    "album": "BE",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/SlO3KaT3qIY"
-  },
-  {
-    "title": "Dis-ease",
-    "album": "BE",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/qvOQu5P3P9U"
-  },
-  {
-    "title": "Stay",
-    "album": "BE",
-    "release": "2020-11-20",
-    "youtube": "https://youtu.be/4tQ5bOUhi0c"
-  },
-  {
-    "title": "Dynamite",
-    "album": "Single",
-    "release": "2020-08-21",
-    "youtube": "https://youtu.be/gdZLi9oWNZg"
-  },
-  {
     "title": "Butter",
-    "album": "Single",
+    "artist": "BTS",
+    "album": "Butter (Single)",
     "release": "2021-05-21",
     "youtube": "https://youtu.be/WMweEpGlu_U"
   },
   {
     "title": "Permission to Dance",
-    "album": "Single",
+    "artist": "BTS",
+    "album": "Butter (CD Single)",
     "release": "2021-07-09",
     "youtube": "https://youtu.be/CuklIb9d3fI"
   },
   {
-    "title": "My Universe",
-    "album": "Music of the Spheres (Coldplay × BTS)",
+    "title": "My Universe (Coldplay x BTS)",
+    "artist": "Coldplay, BTS",
+    "album": "Music of the Spheres",
     "release": "2021-09-24",
     "youtube": "https://youtu.be/3YqPKLZF_WU"
   },
   {
-    "title": "Film Out",
-    "album": "BTS, THE BEST (Japanese)",
-    "release": "2021-04-02",
-    "youtube": "https://youtu.be/zFT3f9biz68"
-  },
-  {
-    "title": "Run BTS",
-    "album": "Proof",
-    "release": "2022-06-10",
-    "youtube": "https://youtu.be/7UWBYJjuIL0"
-  },
-  {
-    "title": "Yet To Come",
-    "album": "Proof",
-    "release": "2022-06-10",
-    "youtube": "https://youtu.be/kXpOEzNZ8hQ"
-  },
-  {
-    "title": "Bad Decisions",
-    "album": "Single (Benny Blanco × BTS × Snoop Dogg)",
-    "release": "2022-08-05",
-    "youtube": "https://youtu.be/c0g1PXY5k_k"
-  },
-  {
-    "title": "The Planet",
-    "album": "OST (Bastions)",
-    "release": "2023-05-12",
-    "youtube": "https://youtu.be/dNCWEYfPKUk"
-  },
-  {
     "title": "Take Two",
-    "album": "Single",
+    "artist": "BTS",
+    "album": "10th Anniversary Single",
     "release": "2023-06-09",
-    "youtube": "https://youtu.be/kxpJh9hQyD8"
+    "youtube": "https://music.youtube.com/watch?v=lwAHfOhOONw&si=fMDM8hhx58Y_GIW3&feature=xapp_share"
   },
   {
-   "title": "Left and Right",
-   "album": "Single (Charlie Puth x Jungkook of BTS)",
-   "release": "2022-06-24",
-   "youtube": "https://youtu.be/a7GITgqwDVg"
+    "title": "The Astronaut",
+    "artist": "Jin (BTS)",
+    "album": "The Astronaut (Single)",
+    "release": "2022-10-28",
+    "youtube": "https://youtu.be/c6ASQOwKkhk?si=oLLWECd9i2TsQHWt"
   },
   {
-   "title": "Dreamers",
-   "album": "OST (2022 FIFA World Cup)",
-   "release": "2022-11-20",
-   "youtube": "https://youtu.be/4As0e4de-rI"
+    "title": "Killin' It Girl (feat. GloRilla)",
+    "artist": "J-Hope (BTS)",
+    "album": "Solo",
+    "release": "2025-06-13",
+    "youtube": "https://youtu.be/q9leDzlNEaY?si=MFiLPL1mDufgc7DW"
+  },
+  {
+    "title": "'Wild Flower (with youjeen)'",
+    "artist": "RM (BTS)",
+    "album": "Indigo",
+    "release": "2022-12-02",
+    "youtube": "https://youtu.be/u18be_kRmC0?si=NGmT55EK6t3fIjW9"
+  },
+  {
+    "title": "D-Day",
+    "artist": "Agust D (Suga of BTS)",
+    "album": "D-Day",
+    "release": "2023-04-21",
+    "youtube": "https://music.youtube.com/watch?v=PxnuqFD-f9c&si=sJeBAl-qheS5TLYY&feature=xapp_share"
+  },
+  {
+    "title": "Like Crazy",
+    "artist": "Jimin (BTS)",
+    "album": "FACE",
+    "release": "2023-03-24",
+    "youtube": "https://youtu.be/nOI67IDlNMQ?si=tFgW9yyjCq1AXN1n"
+  },
+  {
+    "title": "Set Me Free Pt.2",
+    "artist": "Jimin (BTS)",
+    "album": "FACE",
+    "release": "2023-03-24",
+    "youtube": "https://youtu.be/UaywgAqcLxI?si=bqphs1eJPs1COU1c"
+  },
+  {
+    "title": "VIBE (feat. Jimin of BTS)",
+    "artist": "Taeyang",
+    "album": "VIBE (Single)",
+    "release": "2023-01-13",
+    "youtube": "https://youtu.be/cXCBiF67jLM?si=ryWHRfw6IsizfZsC"
+  },
+  {
+    "title": "Christmas Tree",
+    "artist": "V (BTS)",
+    "album": "Christmas Tree (Single)",
+    "release": "2021-12-24",
+    "youtube":"https://youtu.be/lj8TV9q59P4?si=no-kUEdgzK-f2_3w"
+  },
+  {
+    "title": "Sweet Night",
+    "artist": "V (BTS)",
+    "album": "Itaewon Class OST Part.3",
+    "release": "2020-03-13",
+    "youtube":"https://youtu.be/N5ShoQimivM?si=SY9UKOqIq9gdVlEk"
+  },
+  {
+    "title": "Sweet Dreams",
+    "artist": "J-Hope (BTS)",
+    "album": "sweet dreams (Single)",
+    "release": "2025-03-07",
+    "youtube": "https://youtu.be/kW1e8NtdW90?si=FxDZsvFRccBA4-1n"
+  },
+  {
+    "title": "Love Me Again",
+    "artist": "V (BTS)",
+    "album": "Layover",
+    "release": "2023-09-08",
+    "youtube": "https://youtu.be/HYzyRHAHJl8?si=4rzGbITh_HCi_FjP"
+  },
+  {
+    "title": "Slow Dancing",
+    "artist": "V (BTS)",
+    "album": "Layover",
+    "release": "2023-09-08",
+    "youtube":"https://youtu.be/eI0iTRS0Ha8?si=H-nM86aWGEZgwAo2"
+  },
+  {
+    "title": "Rainy Days",
+    "artist": "V (BTS)",
+    "album": "Layover",
+    "release": "2023-09-08",
+    "youtube":"https://youtu.be/yTsINmrAK4I?si=spSM3mCbYo_1PCd2"
+  },
+  {
+    "title": "For Us",
+    "artist": "V (BTS)",
+    "album": "Layover",
+    "release": "2023-09-08",
+    "youtube":"https://youtu.be/LHtzWOLBdPc?si=bl55dkHnyGe8SXE4"
+  },
+  {
+    "title": "Blue",
+    "artist": "V (BTS)",
+    "album": "Layover",
+    "release": "2023-09-08",
+    "youtube":"https://youtu.be/sIh9_cNCwPc?si=sf9fmQWDzhfwx1yj"
+  },
+  {
+    "title": "Snow Flower",
+    "artist": "V (BTS)",
+    "album": "solo",
+    "release": "2020-12-24",
+    "youtube":"https://youtu.be/2nY0spA5UL4?si=YkSSapxFMAYRraPA"
+  },
+  {
+    "title": "Seven (feat. Latto)",
+    "artist": "Jungkook (BTS)",
+    "album": "Seven (Single)",
+    "release": "2023-07-14",
+    "youtube": "https://youtu.be/QU9c0053UAU?si=O9-7vIR5hihlX3EI"
+  },
+  {
+    "title": "Born Singer",
+    "artist": "BTS",
+    "album": "Born Singer (Single)",
+    "release": "2013-06-13",
+    "youtube": "https://www.youtube.com/watch?v=TbjUXK2M5n8&list=OLAK5uy_kXhqIxygqFcOMsJEIFAb_8-X56HKv-chY&index=1&pp=8AUB"
+  },
+  {
+    "title": "We Are Bulletproof Pt.2",
+    "artist": "BTS",
+    "album": "2 Cool 4 Skool",
+    "release": "2013-06-12",
+    "youtube": "https://www.youtube.com/watch?v=9slg6g8b0pE&list=OLAK5uy_kXhqIxygqFcOMsJEIFAb_8-X56HKv-chY&index=2&pp=8AUB"
+  },
+  {
+    "title": "Coffee",
+    "artist": "BTS",
+    "album": "2 Cool 4 Skool",
+    "release": "2013-06-12",
+    "youtube": "https://music.youtube.com/watch?v=FJuOEuvMAnE&si=r8NM6AYlqrWYI6ym&feature=xapp_share"
+  },
+  {
+    "title": "'Le Jazz de V' Live Clip",
+    "artist": "V (BTS)",
+    "release": "2023-06-16",
+    "youtube": "https://youtu.be/SUNnMsq8OKU?si=xKm_ZV4jVrxvGLkk"
+  },
+  {
+    "title": "Don't say you love me",
+    "artist":"Jin (BTS)",
+    "album": "Echo",
+    "release": "2025-03-16",
+    "youtube": "https://youtu.be/o7BcyAd6rqg?si=hFXhNFokc7kQ3QxG"
   }
-] 
+]
+
